@@ -1,0 +1,5 @@
+Delete Johnny-five
+npm install johnny-five
+npm install .
+jpm run
+node arduino.js

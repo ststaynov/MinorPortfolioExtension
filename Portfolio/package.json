@@ -1,0 +1,21 @@
+{
+  "title": "Portfolio",
+  "name": "portfolio",
+  "version": "0.0.1",
+  "description": "A basic add-on",
+  "main": "index.js",
+  "author": "",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ],
+  "dependencies": {
+    "johnny-five": "^0.9.17",
+    "open": "0.0.5",
+    "opener": "^1.4.1"
+  }
+}
